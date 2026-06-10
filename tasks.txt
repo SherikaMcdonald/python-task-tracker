@@ -1,1 +1,4 @@
-
+Finish Python project README
+Review bug tracker idea
+Practice SQL queries
+Update GitHub profile
